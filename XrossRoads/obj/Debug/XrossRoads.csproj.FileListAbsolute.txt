@@ -1,0 +1,6 @@
+C:\Projects\XrossRoads\XrossRoads\bin\Debug\XrossRoads.exe.config
+C:\Projects\XrossRoads\XrossRoads\bin\Debug\XrossRoads.exe
+C:\Projects\XrossRoads\XrossRoads\bin\Debug\XrossRoads.pdb
+C:\Projects\XrossRoads\XrossRoads\obj\Debug\XrossRoads.csprojResolveAssemblyReference.cache
+C:\Projects\XrossRoads\XrossRoads\obj\Debug\XrossRoads.exe
+C:\Projects\XrossRoads\XrossRoads\obj\Debug\XrossRoads.pdb
